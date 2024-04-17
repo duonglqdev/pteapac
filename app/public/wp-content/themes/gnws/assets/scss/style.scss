@@ -1,0 +1,61 @@
+@import "_reset";
+@import "_main";
+@import "_fonts";
+
+html {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+@media only screen and (max-width: 1200px) {
+    html {
+        font-size: 52%;
+    }
+}
+:root {
+    --primary-color: #39b54a;
+    --primary-color-hover: #20a031;
+    --secondary-color: #faa61a;
+    --text-heading: #3b3663;
+    --text-color: #505565;
+    --border-color: #f0f1f3;
+}
+
+
+
+.gutter-15 {
+    margin-left: -15px;
+    margin-right: -15px;
+    @media (max-width: 991px) {
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+}
+.gutter-15 > [class*="col-"] {
+    padding-left: 15px;
+    padding-right: 15px;
+    @media (max-width: 991px) {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+body {
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--text-heading);
+}
+
+.container {
+    padding: 0 15px;
+    @media (min-width: 1300px) {
+        max-width: 1200px;
+        width: 100%;
+    }
+}
+
+
+
+/*--------------HEADER----------------*/
