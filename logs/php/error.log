@@ -1,0 +1,273 @@
+[18-Apr-2024 02:28:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pll_current_language_flag() in D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php:80
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-includes\template.php(810): require_once()
+#1 D:\Project Gini\Pteapac\app\public\wp-includes\template.php(745): load_template('D:\\Project Gini...', true, Array)
+#2 D:\Project Gini\Pteapac\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\home.php(7): get_header()
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\template-loader.php(106): include('D:\\Project Gini...')
+#5 D:\Project Gini\Pteapac\app\public\wp-blog-header.php(19): require_once('D:\\Project Gini...')
+#6 D:\Project Gini\Pteapac\app\public\index.php(17): require('D:\\Project Gini...')
+#7 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php on line 80
+[18-Apr-2024 02:28:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pll_current_language_flag() in D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php:80
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-includes\template.php(810): require_once()
+#1 D:\Project Gini\Pteapac\app\public\wp-includes\template.php(745): load_template('D:\\Project Gini...', true, Array)
+#2 D:\Project Gini\Pteapac\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\404.php(11): get_header()
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\template-loader.php(106): include('D:\\Project Gini...')
+#5 D:\Project Gini\Pteapac\app\public\wp-blog-header.php(19): require_once('D:\\Project Gini...')
+#6 D:\Project Gini\Pteapac\app\public\index.php(17): require('D:\\Project Gini...')
+#7 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php on line 80
+[18-Apr-2024 02:28:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pll_current_language_flag() in D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php:80
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-includes\template.php(810): require_once()
+#1 D:\Project Gini\Pteapac\app\public\wp-includes\template.php(745): load_template('D:\\Project Gini...', true, Array)
+#2 D:\Project Gini\Pteapac\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\404.php(11): get_header()
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\template-loader.php(106): include('D:\\Project Gini...')
+#5 D:\Project Gini\Pteapac\app\public\wp-blog-header.php(19): require_once('D:\\Project Gini...')
+#6 D:\Project Gini\Pteapac\app\public\index.php(17): require('D:\\Project Gini...')
+#7 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php on line 80
+[18-Apr-2024 02:28:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pll_current_language_flag() in D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php:80
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-includes\template.php(810): require_once()
+#1 D:\Project Gini\Pteapac\app\public\wp-includes\template.php(745): load_template('D:\\Project Gini...', true, Array)
+#2 D:\Project Gini\Pteapac\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\404.php(11): get_header()
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\template-loader.php(106): include('D:\\Project Gini...')
+#5 D:\Project Gini\Pteapac\app\public\wp-blog-header.php(19): require_once('D:\\Project Gini...')
+#6 D:\Project Gini\Pteapac\app\public\index.php(17): require('D:\\Project Gini...')
+#7 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php on line 80
+[18-Apr-2024 02:28:54 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php on line 80
+[18-Apr-2024 02:28:54 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php on line 80
+[18-Apr-2024 02:28:54 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php on line 80
+[18-Apr-2024 02:28:54 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php on line 80
+[18-Apr-2024 02:28:54 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php on line 80
+[18-Apr-2024 02:28:55 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php on line 80
+[18-Apr-2024 02:46:27 UTC] PHP Fatal error:  Uncaught TypeError: Illegal offset type in D:\Project Gini\Pteapac\app\public\wp-content\plugins\polylang\include\language-deprecated.php:169
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-content\plugins\polylang\include\language.php(651): PLL_Language_Deprecated->is_deprecated_term_property(Array)
+#1 D:\Project Gini\Pteapac\app\public\wp-content\plugins\polylang\include\api.php(71): PLL_Language->get_prop(Array)
+#2 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php(77): pll_current_language(Array)
+#3 D:\Project Gini\Pteapac\app\public\wp-includes\template.php(810): require_once('D:\\Project Gini...')
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\template.php(745): load_template('D:\\Project Gini...', true, Array)
+#5 D:\Project Gini\Pteapac\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#6 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\home.php(7): get_header()
+#7 D:\Project Gini\Pteapac\app\public\wp-includes\template-loader.php(106): include('D:\\Project Gini...')
+#8 D:\Project Gini\Pteapac\app\public\wp-blog-header.php(19): require_once('D:\\Project Gini...')
+#9 D:\Project Gini\Pteapac\app\public\index.php(17): require('D:\\Project Gini...')
+#10 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-content\plugins\polylang\include\language-deprecated.php on line 169
+[18-Apr-2024 02:46:27 UTC] PHP Fatal error:  Uncaught TypeError: Illegal offset type in D:\Project Gini\Pteapac\app\public\wp-content\plugins\polylang\include\language-deprecated.php:169
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-content\plugins\polylang\include\language.php(651): PLL_Language_Deprecated->is_deprecated_term_property(Array)
+#1 D:\Project Gini\Pteapac\app\public\wp-content\plugins\polylang\include\api.php(71): PLL_Language->get_prop(Array)
+#2 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php(77): pll_current_language(Array)
+#3 D:\Project Gini\Pteapac\app\public\wp-includes\template.php(810): require_once('D:\\Project Gini...')
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\template.php(745): load_template('D:\\Project Gini...', true, Array)
+#5 D:\Project Gini\Pteapac\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#6 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\404.php(11): get_header()
+#7 D:\Project Gini\Pteapac\app\public\wp-includes\template-loader.php(106): include('D:\\Project Gini...')
+#8 D:\Project Gini\Pteapac\app\public\wp-blog-header.php(19): require_once('D:\\Project Gini...')
+#9 D:\Project Gini\Pteapac\app\public\index.php(17): require('D:\\Project Gini...')
+#10 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-content\plugins\polylang\include\language-deprecated.php on line 169
+[18-Apr-2024 02:46:27 UTC] PHP Fatal error:  Uncaught TypeError: Illegal offset type in D:\Project Gini\Pteapac\app\public\wp-content\plugins\polylang\include\language-deprecated.php:169
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-content\plugins\polylang\include\language.php(651): PLL_Language_Deprecated->is_deprecated_term_property(Array)
+#1 D:\Project Gini\Pteapac\app\public\wp-content\plugins\polylang\include\api.php(71): PLL_Language->get_prop(Array)
+#2 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php(77): pll_current_language(Array)
+#3 D:\Project Gini\Pteapac\app\public\wp-includes\template.php(810): require_once('D:\\Project Gini...')
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\template.php(745): load_template('D:\\Project Gini...', true, Array)
+#5 D:\Project Gini\Pteapac\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#6 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\404.php(11): get_header()
+#7 D:\Project Gini\Pteapac\app\public\wp-includes\template-loader.php(106): include('D:\\Project Gini...')
+#8 D:\Project Gini\Pteapac\app\public\wp-blog-header.php(19): require_once('D:\\Project Gini...')
+#9 D:\Project Gini\Pteapac\app\public\index.php(17): require('D:\\Project Gini...')
+#10 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-content\plugins\polylang\include\language-deprecated.php on line 169
+[18-Apr-2024 02:46:31 UTC] PHP Fatal error:  Uncaught TypeError: Illegal offset type in D:\Project Gini\Pteapac\app\public\wp-content\plugins\polylang\include\language-deprecated.php:169
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-content\plugins\polylang\include\language.php(651): PLL_Language_Deprecated->is_deprecated_term_property(Array)
+#1 D:\Project Gini\Pteapac\app\public\wp-content\plugins\polylang\include\api.php(71): PLL_Language->get_prop(Array)
+#2 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\header.php(77): pll_current_language(Array)
+#3 D:\Project Gini\Pteapac\app\public\wp-includes\template.php(810): require_once('D:\\Project Gini...')
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\template.php(745): load_template('D:\\Project Gini...', true, Array)
+#5 D:\Project Gini\Pteapac\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#6 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\404.php(11): get_header()
+#7 D:\Project Gini\Pteapac\app\public\wp-includes\template-loader.php(106): include('D:\\Project Gini...')
+#8 D:\Project Gini\Pteapac\app\public\wp-blog-header.php(19): require_once('D:\\Project Gini...')
+#9 D:\Project Gini\Pteapac\app\public\index.php(17): require('D:\\Project Gini...')
+#10 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-content\plugins\polylang\include\language-deprecated.php on line 169
+[18-Apr-2024 03:20:11 UTC] PHP Fatal error:  Uncaught Error: Class "Footer_HTML_Widget" not found in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php:62
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(115): WP_Widget_Factory->register('Footer_HTML_Wid...')
+#1 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\inc\customizer-widget.php(107): register_widget('Footer_HTML_Wid...')
+#2 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): register_footer_html_widget('')
+#3 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(1862): do_action('widgets_init')
+#6 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): wp_widgets_init('')
+#7 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 D:\Project Gini\Pteapac\app\public\wp-settings.php(695): do_action('init')
+#10 D:\Project Gini\Pteapac\app\public\wp-config.php(103): require_once('D:\\Project Gini...')
+#11 D:\Project Gini\Pteapac\app\public\wp-load.php(50): require_once('D:\\Project Gini...')
+#12 D:\Project Gini\Pteapac\app\public\wp-admin\admin-ajax.php(22): require_once('D:\\Project Gini...')
+#13 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php on line 62
+[18-Apr-2024 03:21:15 UTC] PHP Fatal error:  Uncaught Error: Class "Footer_HTML_Widget" not found in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php:62
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(115): WP_Widget_Factory->register('Footer_HTML_Wid...')
+#1 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\inc\customizer-widget.php(114): register_widget('Footer_HTML_Wid...')
+#2 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): register_footer_html_widget('')
+#3 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(1862): do_action('widgets_init')
+#6 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): wp_widgets_init('')
+#7 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 D:\Project Gini\Pteapac\app\public\wp-settings.php(695): do_action('init')
+#10 D:\Project Gini\Pteapac\app\public\wp-config.php(103): require_once('D:\\Project Gini...')
+#11 D:\Project Gini\Pteapac\app\public\wp-load.php(50): require_once('D:\\Project Gini...')
+#12 D:\Project Gini\Pteapac\app\public\wp-admin\admin-ajax.php(22): require_once('D:\\Project Gini...')
+#13 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php on line 62
+[18-Apr-2024 03:21:18 UTC] PHP Fatal error:  Uncaught Error: Class "Footer_HTML_Widget" not found in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php:62
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(115): WP_Widget_Factory->register('Footer_HTML_Wid...')
+#1 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\inc\customizer-widget.php(114): register_widget('Footer_HTML_Wid...')
+#2 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): register_footer_html_widget('')
+#3 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(1862): do_action('widgets_init')
+#6 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): wp_widgets_init('')
+#7 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 D:\Project Gini\Pteapac\app\public\wp-settings.php(695): do_action('init')
+#10 D:\Project Gini\Pteapac\app\public\wp-config.php(103): require_once('D:\\Project Gini...')
+#11 D:\Project Gini\Pteapac\app\public\wp-load.php(50): require_once('D:\\Project Gini...')
+#12 D:\Project Gini\Pteapac\app\public\wp-blog-header.php(13): require_once('D:\\Project Gini...')
+#13 D:\Project Gini\Pteapac\app\public\index.php(17): require('D:\\Project Gini...')
+#14 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php on line 62
+[18-Apr-2024 03:21:18 UTC] PHP Fatal error:  Uncaught Error: Class "Footer_HTML_Widget" not found in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php:62
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(115): WP_Widget_Factory->register('Footer_HTML_Wid...')
+#1 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\inc\customizer-widget.php(114): register_widget('Footer_HTML_Wid...')
+#2 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): register_footer_html_widget('')
+#3 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(1862): do_action('widgets_init')
+#6 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): wp_widgets_init('')
+#7 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 D:\Project Gini\Pteapac\app\public\wp-settings.php(695): do_action('init')
+#10 D:\Project Gini\Pteapac\app\public\wp-config.php(103): require_once('D:\\Project Gini...')
+#11 D:\Project Gini\Pteapac\app\public\wp-load.php(50): require_once('D:\\Project Gini...')
+#12 D:\Project Gini\Pteapac\app\public\wp-blog-header.php(13): require_once('D:\\Project Gini...')
+#13 D:\Project Gini\Pteapac\app\public\index.php(17): require('D:\\Project Gini...')
+#14 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php on line 62
+[18-Apr-2024 03:21:29 UTC] PHP Fatal error:  Uncaught Error: Class "Footer_HTML_Widget" not found in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php:62
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(115): WP_Widget_Factory->register('Footer_HTML_Wid...')
+#1 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\inc\customizer-widget.php(114): register_widget('Footer_HTML_Wid...')
+#2 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): register_footer_html_widget('')
+#3 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(1862): do_action('widgets_init')
+#6 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): wp_widgets_init('')
+#7 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 D:\Project Gini\Pteapac\app\public\wp-settings.php(695): do_action('init')
+#10 D:\Project Gini\Pteapac\app\public\wp-config.php(103): require_once('D:\\Project Gini...')
+#11 D:\Project Gini\Pteapac\app\public\wp-load.php(50): require_once('D:\\Project Gini...')
+#12 D:\Project Gini\Pteapac\app\public\wp-blog-header.php(13): require_once('D:\\Project Gini...')
+#13 D:\Project Gini\Pteapac\app\public\index.php(17): require('D:\\Project Gini...')
+#14 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php on line 62
+[18-Apr-2024 03:21:29 UTC] PHP Fatal error:  Uncaught Error: Class "Footer_HTML_Widget" not found in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php:62
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(115): WP_Widget_Factory->register('Footer_HTML_Wid...')
+#1 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\inc\customizer-widget.php(114): register_widget('Footer_HTML_Wid...')
+#2 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): register_footer_html_widget('')
+#3 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(1862): do_action('widgets_init')
+#6 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): wp_widgets_init('')
+#7 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 D:\Project Gini\Pteapac\app\public\wp-settings.php(695): do_action('init')
+#10 D:\Project Gini\Pteapac\app\public\wp-config.php(103): require_once('D:\\Project Gini...')
+#11 D:\Project Gini\Pteapac\app\public\wp-load.php(50): require_once('D:\\Project Gini...')
+#12 D:\Project Gini\Pteapac\app\public\wp-blog-header.php(13): require_once('D:\\Project Gini...')
+#13 D:\Project Gini\Pteapac\app\public\index.php(17): require('D:\\Project Gini...')
+#14 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php on line 62
+[18-Apr-2024 03:21:55 UTC] PHP Fatal error:  Uncaught Error: Class "Footer_HTML_Widget" not found in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php:62
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(115): WP_Widget_Factory->register('Footer_HTML_Wid...')
+#1 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\inc\customizer-widget.php(114): register_widget('Footer_HTML_Wid...')
+#2 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): register_footer_html_widget('')
+#3 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(1862): do_action('widgets_init')
+#6 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): wp_widgets_init('')
+#7 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 D:\Project Gini\Pteapac\app\public\wp-settings.php(695): do_action('init')
+#10 D:\Project Gini\Pteapac\app\public\wp-config.php(103): require_once('D:\\Project Gini...')
+#11 D:\Project Gini\Pteapac\app\public\wp-load.php(50): require_once('D:\\Project Gini...')
+#12 D:\Project Gini\Pteapac\app\public\wp-blog-header.php(13): require_once('D:\\Project Gini...')
+#13 D:\Project Gini\Pteapac\app\public\index.php(17): require('D:\\Project Gini...')
+#14 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php on line 62
+[18-Apr-2024 03:21:56 UTC] PHP Fatal error:  Uncaught Error: Class "Footer_HTML_Widget" not found in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php:62
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(115): WP_Widget_Factory->register('Footer_HTML_Wid...')
+#1 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\inc\customizer-widget.php(114): register_widget('Footer_HTML_Wid...')
+#2 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): register_footer_html_widget('')
+#3 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(1862): do_action('widgets_init')
+#6 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): wp_widgets_init('')
+#7 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 D:\Project Gini\Pteapac\app\public\wp-settings.php(695): do_action('init')
+#10 D:\Project Gini\Pteapac\app\public\wp-config.php(103): require_once('D:\\Project Gini...')
+#11 D:\Project Gini\Pteapac\app\public\wp-load.php(50): require_once('D:\\Project Gini...')
+#12 D:\Project Gini\Pteapac\app\public\wp-blog-header.php(13): require_once('D:\\Project Gini...')
+#13 D:\Project Gini\Pteapac\app\public\index.php(17): require('D:\\Project Gini...')
+#14 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php on line 62
+[18-Apr-2024 03:22:16 UTC] PHP Fatal error:  Uncaught Error: Class "Footer_HTML_Widget" not found in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php:62
+Stack trace:
+#0 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(115): WP_Widget_Factory->register('Footer_HTML_Wid...')
+#1 D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\inc\customizer-widget.php(114): register_widget('Footer_HTML_Wid...')
+#2 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): register_footer_html_widget('')
+#3 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 D:\Project Gini\Pteapac\app\public\wp-includes\widgets.php(1862): do_action('widgets_init')
+#6 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(324): wp_widgets_init('')
+#7 D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 D:\Project Gini\Pteapac\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 D:\Project Gini\Pteapac\app\public\wp-settings.php(695): do_action('init')
+#10 D:\Project Gini\Pteapac\app\public\wp-config.php(103): require_once('D:\\Project Gini...')
+#11 D:\Project Gini\Pteapac\app\public\wp-load.php(50): require_once('D:\\Project Gini...')
+#12 D:\Project Gini\Pteapac\app\public\wp-admin\admin-ajax.php(22): require_once('D:\\Project Gini...')
+#13 {main}
+  thrown in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-widget-factory.php on line 62
+[18-Apr-2024 04:57:18 UTC] Lỗi lịch sự kiện Cron cho hook: action_scheduler_run_queue, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[18-Apr-2024 07:01:53 UTC] PHP Fatal error:  Cannot redeclare register_footer_html_widget_3() (previously declared in D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\inc\customizer-widget.php:299) in D:\Project Gini\Pteapac\app\public\wp-content\themes\gnws\inc\customizer-widget.php on line 401
+[18-Apr-2024 07:01:53 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[18-Apr-2024 07:01:53 UTC] PHP Warning:  Trying to access array offset on value of type bool in D:\Project Gini\Pteapac\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[18-Apr-2024 09:35:27 UTC] Lỗi lịch sự kiện Cron cho hook: action_scheduler_run_queue, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[18-Apr-2024 09:35:42 UTC] Lỗi lịch sự kiện Cron cho hook: action_scheduler_run_queue, Mã lỗi: invalid_schedule, Thông báo lỗi: Lịch cho sự kiện không tồn tại., Dữ liệu: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[19-Apr-2024 10:01:17 UTC] PHP Warning:  Undefined variable $content in D:\Project Gini\Pteapac\app\public\wp-content\themes\kmar\components\home-about.php on line 30
+[19-Apr-2024 10:01:17 UTC] PHP Warning:  Trying to access array offset on value of type null in D:\Project Gini\Pteapac\app\public\wp-content\themes\kmar\components\home-about.php on line 30
