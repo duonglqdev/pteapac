@@ -1,0 +1,129 @@
+Nov 16 2022 18:15:07
+{"type":2,"message":"include_once(): Failed opening 'wp-content\/themes\/gnws\/shortcodes\/wc.php' for inclusion (include_path='.;F:\/laragon\/etc\/php\/pear')","file":"F:\\laragon\\www\\soikeo\\wp-content\\themes\\gnws\\functions.php","line":772}
+
+Nov 16 2022 18:15:08
+{"type":2,"message":"include_once(): Failed opening 'wp-content\/themes\/gnws\/shortcodes\/wc.php' for inclusion (include_path='.;F:\/laragon\/etc\/php\/pear')","file":"F:\\laragon\\www\\soikeo\\wp-content\\themes\\gnws\\functions.php","line":772}
+
+Nov 16 2022 18:15:23
+{"type":2,"message":"include_once(): Failed opening 'wp-content\/themes\/gnws\/shortcodes\/wc.php' for inclusion (include_path='.;F:\/laragon\/etc\/php\/pear')","file":"F:\\laragon\\www\\soikeo\\wp-content\\themes\\gnws\\functions.php","line":772}
+
+Nov 16 2022 18:15:25
+{"type":2,"message":"include_once(): Failed opening 'wp-content\/themes\/gnws\/shortcodes\/wc.php' for inclusion (include_path='.;F:\/laragon\/etc\/php\/pear')","file":"F:\\laragon\\www\\soikeo\\wp-content\\themes\\gnws\\functions.php","line":772}
+
+Nov 16 2022 18:15:34
+{"type":2,"message":"include_once(): Failed opening 'wp-content\/themes\/gnws\/shortcodes\/wc.php' for inclusion (include_path='.;F:\/laragon\/etc\/php\/pear')","file":"F:\\laragon\\www\\soikeo\\wp-content\\themes\\gnws\\functions.php","line":772}
+
+Nov 16 2022 18:16:11
+{"type":2,"message":"include_once(): Failed opening 'wp-content\/themes\/gnws\/shortcodes\/wc.php' for inclusion (include_path='.;F:\/laragon\/etc\/php\/pear')","file":"F:\\laragon\\www\\soikeo\\wp-content\\themes\\gnws\\functions.php","line":772}
+
+Nov 16 2022 18:16:13
+{"type":2,"message":"include_once(): Failed opening 'wp-content\/themes\/gnws\/shortcodes\/wc.php' for inclusion (include_path='.;F:\/laragon\/etc\/php\/pear')","file":"F:\\laragon\\www\\soikeo\\wp-content\\themes\\gnws\\functions.php","line":772}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+
+Apr 20 2024 01:56:25
+{"Number":8192,"Message":"rtrim(): Passing null to parameter #1 ($string) of type string is deprecated","File":"D:\\Project Gini\\Pteapac\\app\\public\\wp-includes\\formatting.php","Line":2831}
+

@@ -4,21 +4,21 @@
       menuMobile();
       backToTop();
       sliderPage();
-
-
-      $('.list-cauhoi li').on('click', 'h4', function (e) {
+      dynamicPopup();
+      countUpNumber();
+      $(".list-cauhoi li").on("click", "h4", function (e) {
         // Kiểm tra xem phần tử được click có class 'active' hay không
-        if ($(e.delegateTarget).hasClass('active')) {
-            $(e.delegateTarget).removeClass('active');
-            $(e.delegateTarget).find('.box-ques').removeClass('active');
+        if ($(e.delegateTarget).hasClass("active")) {
+          $(e.delegateTarget).removeClass("active");
+          $(e.delegateTarget).find(".box-ques").removeClass("active");
         } else {
-            // Nếu không, thực hiện logic khác
-            $('.list-cauhoi li').removeClass('active');
-            $('.list-cauhoi li .box-ques').removeClass('active');
-            $(e.delegateTarget).addClass('active');
-            $(e.delegateTarget).find('.box-ques').toggleClass('active');
+          // Nếu không, thực hiện logic khác
+          $(".list-cauhoi li").removeClass("active");
+          $(".list-cauhoi li .box-ques").removeClass("active");
+          $(e.delegateTarget).addClass("active");
+          $(e.delegateTarget).find(".box-ques").toggleClass("active");
         }
-    });
+      });
     });
   };
 })(jQuery);
@@ -93,15 +93,6 @@ function setSameHeight() {
   });
 }
 
-function placeHover() {
-  $(document).on("mouseover", ".place__item", function () {
-    $(this).find(".read-more").show(300);
-  });
-  $(document).on("mouseleave", ".place__item", function () {
-    $(this).find(".read-more").hide(300);
-  });
-}
-
 $(document).ready(function () {
   // Custom
   var stickyToggle = function (sticky, stickyWrapper, scrollElement) {
@@ -137,7 +128,7 @@ function checkScreenSize() {
     window.innerWidth >= 1400 &&
     window.innerWidth <= 1930
   ) {
-    var swiper = new Swiper(".my-swiper", {
+    var swiperHome = new Swiper(".my-swiper", {
       direction: "vertical",
       slidesPerView: 1,
       spaceBetween: 60,
@@ -161,7 +152,7 @@ function checkScreenSize() {
 
   //
 }
-
+// checkScreenSize();
 // function reloadOnResize() {
 //   location.reload();
 // }
@@ -271,6 +262,114 @@ function sliderPage() {
       slidesPerView: 1,
       speed: 1000,
       effect: "fade",
+    });
+  }
+  if ($(".list-teacher--home").length) {
+    var swiperStaff = new Swiper(".list-teacher--home", {
+      loop: true,
+      speed: 500,
+      spaceBetween: 20,
+      autoplay: 3000,
+      breakpoints: {
+        992: {
+          slidesPerView: 4,
+        },
+        0: {
+          slidesPerView: 2,
+        },
+      },
+    });
+  }
+  if ($(".list-partner--home").length) {
+    var swiperPartner = new Swiper(".list-partner--home", {
+      loop: true,
+      speed: 500,
+      spaceBetween: 20,
+      autoplay: 3000,
+      breakpoints: {
+        992: {
+          slidesPerView: 4,
+        },
+        0: {
+          slidesPerView: 2,
+        },
+      },
+    });
+  }
+  if ($(".list-feel--home").length) {
+    var swiperPartner = new Swiper(".list-feel--home", {
+      loop: true,
+      speed: 500,
+      slidesPerView: 2,
+      spaceBetween: 20,
+      autoplay: 3000,
+      pagination: {
+        el: ".swiper-pagination",
+      },
+      breakpoints: {
+        992: {
+          slidesPerView: 3,
+        },
+        0: {
+          slidesPerView: 2,
+        },
+      },
+    });
+  }
+  if ($(".list-result--home").length) {
+    var swiperRsult = new Swiper(".list-result--home", {
+      loop: true,
+      speed: 500,
+      slidesPerView: 1,
+      autoplay: 3000,
+     
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+    });
+  }
+}
+
+function dynamicPopup() {
+  $(".item-partner--home").click(function () {
+    let contentPopUp = $(this).find("[data-popup]").html();
+    let partnerModal = $("#partnerModal .modal-body");
+    partnerModal.empty();
+    partnerModal.append(contentPopUp);
+  });
+}
+
+function countUpNumber() {
+  if ($(".section__count").length) {
+    var counted = 0;
+    $(window).scroll(function () {
+      var oTop = $(".section__count").offset().top - window.innerHeight;
+      if (counted == 0 && $(".count").length && $(window).scrollTop() > oTop) {
+        $(".count").each(function () {
+          var $this = $(this),
+            countTo = $this.attr("data-count");
+          $({
+            countNum: $this.text(),
+          }).animate(
+            {
+              countNum: countTo,
+            },
+
+            {
+              duration: 2000,
+              easing: "swing",
+              step: function () {
+                $this.text(Math.floor(this.countNum));
+              },
+              complete: function () {
+                $this.text(this.countNum);
+              },
+            }
+          );
+        });
+        counted = 1;
+      }
     });
   }
 }

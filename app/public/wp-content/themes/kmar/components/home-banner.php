@@ -1,5 +1,5 @@
 <section class=" scroll--section swiper-slide slider ">
-	<div class="swiper__slider" data-id="slider-banner">
+	<div class="swiper__slider" >
 
 		<div class="i-sl-home swiper-wrapper">
 			<?php if ( have_rows( 'home_banner' ) ) : ?>
@@ -57,47 +57,5 @@
 			<?php endif; ?>
 		</div>
 
-	</div>
-</section>
-<section class="form--mb--res">
-	<div class="cus--form--mb--res">
-		<section class="scroll--section swiper-slide ">
-			<section class=" find--home ">
-				<div class="box-wp">
-					<div class="cus-find--home clearfix">
-						<div class="content-left--50">
-							<div class="info--find">
-							</div>
-							<?php echo do_shortcode( '[wpforms id="92"]	' ) ?>
-							<div class="social--find ">
-								<p>
-									<?php _e( 'THEO DÕI CHÚNG TÔI ĐỂ CẬP NHẬT THÔNG TIN HỮU ÍCH', 'kmar' ) ?>
-								</p>
-
-								<?php if ( have_rows( 'cdc_mxh_list', 'option' ) ) : ?>
-									<ul class="social">
-										<?php while ( have_rows( 'cdc_mxh_list', 'option' ) ) :
-											the_row(); ?>
-											<li>
-												<a
-													href="<?php echo check_link( get_sub_field( 'link' ) ) ?>">
-													<?php echo wp_get_attachment_image( get_sub_field( 'icon' ), 'full' ) ?>
-												</a>
-											</li>
-										<?php endwhile; ?>
-									</ul>
-								<?php endif; ?>
-							</div>
-						</div>
-						<div class="content-right--50">
-							<div class="cus-right--find">
-								<p><img alt="find" src="uploads/images/find_right.png"
-										style="max-width: 100%;" /></p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-		</section>
 	</div>
 </section>

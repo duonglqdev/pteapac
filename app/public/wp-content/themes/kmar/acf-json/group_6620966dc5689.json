@@ -125,6 +125,11 @@
                 "param": "widget",
                 "operator": "==",
                 "value": "footer_html_widget_1"
+            },
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "post"
             }
         ]
     ],
@@ -137,5 +142,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1713422238
+    "modified": 1713582824
 }

@@ -23,6 +23,9 @@ get_header();
 				endwhile;
 
 				?>
+				<?php
+				get_footer();
+				?>
 
 			</div>
 		</div>
@@ -32,6 +35,3 @@ get_header();
 	<h1 class="d-none"><?php echo wp_title() ?></h1>
 
 </main>
-
-<?php
-get_footer();

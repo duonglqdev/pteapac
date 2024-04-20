@@ -14,7 +14,7 @@
 
 			</div>
             <?php if( have_rows('f4_list_course') ): ?>
-                <div class="list-course--home  clearfix">
+                <div class="list-course--home ">
                 <?php while( have_rows('f4_list_course') ): the_row();
                 $btn_contact = get_sub_field('btn_contact');
            
